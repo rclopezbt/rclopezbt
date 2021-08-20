@@ -44,9 +44,9 @@ And I also love writing, editing videos and playing music, so I think it's easy 
 Sure we can talk about some ideas and why not drink some cofee?<br/>
 So if you have ideas, suggestions, questions, bugs or even if you just want to chat, here are where you can find me:
 
-- ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rclopezbt)
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rodrigocriscuololopez@gmail.com)
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-c-lopez/)
+<a href="https://github.com/rclopezbt" rel="some text">![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rclopezbt)</a><br/>
+<a href="mailto:rodrigocriscuololopez@gmail.com" rel="some text">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rodrigocriscuololopez@gmail.com)</a><br/>
+<a href="https://www.linkedin.com/in/rodrigo-c-lopez/" rel="some text"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-c-lopez/)</a>
 
 
 ## ⚡ Github Stats 🚀 ##
